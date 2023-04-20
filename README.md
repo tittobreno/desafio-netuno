@@ -1,4 +1,1 @@
 # desafio-netuno
-
-### Requisitos
-   - Node
